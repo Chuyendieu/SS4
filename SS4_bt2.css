@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: rgb(254, 254, 255);
+}
+
+.h02 {
+    padding-top: 50px;
+}
+
+p {
+    margin: 20px;
+}
+
+div {
+    text-align: center;
+    background-size: contain;
+    background: center;
+    background-image: url(https://vuaodu.com/wp-content/uploads/2022/11/du-che-mua-ca-nhan-1.webp);
+
+}
+
+.btn {
+    width: 350px;
+    height: 35px;
+    border-radius: 5px;
+    background-color: rgb(228, 84, 62);
+    color: white;
+    text-align: center;
+    margin: 50px 5px;
+}
